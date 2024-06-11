@@ -1,39 +1,16 @@
 # HW3_Hojdila
 
-Information on using this cookiecutter
+
 
 Development workflows
 =======================
 
-Create new project
+Created new project
 ----------------------
 
-You've already done this if you are reading this file. You ran:
-
-```bash
-cookiecutter gh:Rhedhead0621/cookiecutter-datascience-simple
-```
 
 Put project under version control
 ---------------------------------
-
-Let's get version control set up. You don't absolutely have to do this, but you should. For the local repository, do;
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-```
-
-For the remote repository, make a github repository named HW3_Hojdila, then do;
-
-```bash
-git remote add origin git@github.com:Rhedhead0621/HW3_Hojdila.git
-git branch -M main
-git push -u origin main
-```
-
-Great. Using version control is good.
 
 
 Folder structure
@@ -50,18 +27,15 @@ Here's the folder structure that gets created by `cookiecutter-datascience-simpl
 		│   └───raw						<- The original, immutable data dump
 		│
 		├───docs
-		│       notes.md				<- Simple markdown template for project notes
+		│       
 		│
-		└───output
-				readme.md				<- Guidance for using this folder
+		└───images
+
 
 
 Documentation
 --------------
 
-In this very simple project structure template, we've just included a markdown file with some typical
-section headings to use for project notes. Expand as desired. Later in the semester we will learn how to
-use Sphinx with restructuredText to write and generate documentation.
 
 
 
