@@ -16,36 +16,50 @@ https://www.tidio.com/blog/nlp-chatbots/
 
 https://realpython.com/build-a-chatbot-python-chatterbot/
 
-https://botpress.com/blog/nlp-chatbot#:~:text=How%20is%20an%20NLP%20chatbot,%22rule%2Dbased%22%20bots.
+https://botpress.com/blog/nlp-chatbot#:~:text=How%20is%20an%20NLP%20chatbot,%22rule%2Dbased%22%20bots
 
 
 A web page DOM (document object model) can be thought of as a type of family tree. Objects at the same level are *siblings* while from the perspective of a current object, *parents* are higher up in the tree and *children* are further down.
 
 
-NLTK Library Option
--------------------
-
-https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/
-
-Chatterbot is not working - a lot of known issues
-
-I'm going to try using the nltk library
-
+There is a lot of information online - I decided to ask ChatGPT and found some interesting choices to research - that do not rely on ChatterBot. ChatterBot does have a lot of known issues, broke my Anaconda and I had to troubleshoot and fix
 
 
 There are several options for creating chatbots in Python that do not rely on ChatterBot. Here are a few alternatives:
 
 1. **NLTK (Natural Language Toolkit)**: NLTK provides tools for building chatbots, including tokenization, part-of-speech tagging, and parsing. While it doesn't offer pre-trained models like ChatterBot, you can create rule-based or machine learning-based chatbots using NLTK's functionality.
 
-2. **TensorFlow**: TensorFlow is a popular machine learning framework that can be used to build chatbots. You can create sequence-to-sequence models or other types of neural networks to generate responses based on input.
+2. **TensorFlow & Keras**: TensorFlow is a popular machine learning framework that can be used to build chatbots. You can create sequence-to-sequence models or other types of neural networks to generate responses based on input. TensorFlow and Keras are deep learning libraries that can be used to build neural network-based chatbots. You can train models using sequence-to-sequence architectures or other deep learning techniques to understand user inputs and generate responses.
 
 3. **PyTorch**: Similar to TensorFlow, PyTorch is another machine learning library that can be used for building chatbots. It offers flexibility and ease of use for building neural networks.
 
-4. **Rasa**: Rasa is an open-source conversational AI platform that allows you to build chatbots and virtual assistants. It provides tools for natural language understanding, dialogue management, and integrations with messaging platforms.
+4. **Rasa**: Rasa is an open-source conversational AI platform that allows you to build chatbots and virtual assistants. It provides tools for natural language understanding, dialogue management, and integrations with messaging platforms. 
 
 5. **spaCy**: spaCy is a natural language processing library that can be used for building chatbots. While it doesn't provide chatbot-specific functionality out of the box, it offers powerful tools for text processing and entity recognition, which are essential components of chatbots.
 
-These are just a few alternatives to ChatterBot for building chatbots in Python. Depending on your requirements and expertise, you can choose the one that best fits your needs.
+6. **Dialogflow**: Dialogflow, now part of Google Cloud, is a platform for building conversational interfaces, including chatbots and voice assistants. It offers pre-built NLU models and allows customization using its web interface. You can integrate Dialogflow with your Python application using its REST API or client libraries.
+
+7. **Microsoft Bot Framework SDK for Python**: Microsoft Bot Framework provides SDKs for building chatbots in various programming languages, including Python. It offers features like natural language understanding, dialog management, and integration with popular messaging platforms like Microsoft Teams, Skype, and Slack.
+
+These are just a few alternatives to ChatterBot for building chatbots in Python. Depending on your requirements and expertise, you can choose the one that best fits your needs
+
+
+Initial chatbot resource for the project:
+-----------------------------------------
+
+NLTK Library Option
+-------------------
+
+https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/
+
+I'm going to try using the nltk library
+
+NLTK_Chatbot.ipynb - initial, simple trial - works great! A few bugs, but I will work those out in the next steps
+
+Key Takeaways:
+Chatbots are AI-powered software applications designed to simulate human-like conversations with users through text or speech interfaces.
+The two main types of AI chatbots are rule-based and self-learning.
+Self-learning chatbots are of two types: retrieval-based and generative-based chatbots.
 
 
 
