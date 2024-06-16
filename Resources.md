@@ -1,6 +1,8 @@
 All example docs and loops
 Review 2downloading_files.ipynb
 
+pip install aspose-words
+
 Remember to use "inspect" on the website I am looking at
 
 
@@ -9,6 +11,8 @@ https://datasciencedojo.com/blog/what-are-chatbots/
 https://datasciencedojo.com/blog/building-chatbot-google-dialogflow/
 
 https://landbot.io/academy-episode/create-first-dialogflow-agent
+
+https://landbot.io/pricing - there is a free version - Dialogflow may not have a free version
 
 https://stackoverflow.com/questions/48760129/im-scraping-a-faq-pages-and-i-need-to-find-which-tag-has-answers-in-faq-pages
 
