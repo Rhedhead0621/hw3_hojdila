@@ -73,9 +73,11 @@ Basic project process flow:
 
 - Be able to launch the chatbot from an html document
 
+Personal learning:
+
 - Learn more about markdown and html formatting
 
 https://htmlcheatsheet.com/css/
 
-
+Chatbots can also store the "conversations" for further learning and analyzing topics for enhanced customer service (what are the highest ranking questions, issues, topics, etc.) 
 
