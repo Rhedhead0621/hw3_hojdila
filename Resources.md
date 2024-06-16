@@ -6,6 +6,11 @@ pip install aspose-words
 Remember to use "inspect" on the website I am looking at
 
 
+https://bookdown.org/yihui/rmarkdown-cookbook/font-color.html
+
+https://stackoverflow.com/questions/4182554/html-css-font-color-vs-span-style
+
+
 https://datasciencedojo.com/blog/what-are-chatbots/
 
 https://datasciencedojo.com/blog/building-chatbot-google-dialogflow/
