@@ -1,15 +1,10 @@
-<span style="color: #FFF;
-background-color: #232323;
-text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;">Welcome!!!</span>
-
+<span style="color: #FFF; background-color: #232323; text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18; ">Welcome!!!</span>
 
 **<span style="color: red;">Welcome!!!</span>**
 
 <span style="color: red; font-size:18px; line-height:35px; font-family: Calibri;">Welcome!!!</span>
 
-
-Advanced Analytics with Python – Final Project
-==============================================
+<span style="color: #FFFFFF; background: #333333; text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px; color: #FFFFFF; background: #333333; ">Advanced Analytics with Python – Final Project</span>
 
 Team Member
 ------------
@@ -25,7 +20,6 @@ Based on Module 5 - Data wrangling / visualizations / analysis
 
 Executive Summary of the Project
 -----------------------------------------
-
 This project has morphed slightly from the original plan, however the problem-solving of roadblocks led to discovering other options just as interesting - and provided work-arounds to flow from start to finish.
 
 Initial Primary Goals:
@@ -33,15 +27,13 @@ Initial Primary Goals:
 - Use Python to Webscrape data to use with a chatbot
 - Develop a chatbot that interacts with information from the data
 
-
 Data Needs and Sources
 -----------------------
 - Python
-- Chatbot platform such as Landbot
+- Chatbot platform such as Landbot - decided to remain within Python and use NLTK
 
 Challenges and Reality Checks
 -----------------------------
-
 - Webscraping data requiring login information is challenging, especially when I'm finally successful entering my email address and selecting the "Next" button through the code, only to get to a Google login requirement needing to text my cell phone and enter a random texted number
 
 - Another idea was taking information from a PDF, and using the text information for the chatbot - this requires OCR (Optical Character Recognition) within Python (I thought Python would magically know an A was an A, not a picture of an A...)
@@ -62,7 +54,6 @@ Challenges and Reality Checks
 
 Accomplishments and Personal Learning
 -------------------------------------
-
 Basic project process flow:
 
 - Research and decide on chatbot option - settled on NLTK Library in Python
@@ -75,9 +66,7 @@ Basic project process flow:
 
 Personal learning:
 
-- Learn more about markdown and html formatting
+- Learn more about markdown and html formatting - very cool site! https://htmlcheatsheet.com/css/
 
-https://htmlcheatsheet.com/css/
-
-Chatbots can also store the "conversations" for further learning and analyzing topics for enhanced customer service (what are the highest ranking questions, issues, topics, etc.) 
+- Chatbots can also store the "conversations" for further learning and analyzing topics for enhanced customer service (what are the highest ranking questions, issues, topics, etc.) 
 

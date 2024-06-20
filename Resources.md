@@ -11,6 +11,9 @@ https://bookdown.org/yihui/rmarkdown-cookbook/font-color.html
 https://stackoverflow.com/questions/4182554/html-css-font-color-vs-span-style
 
 
+https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/#:~:text=A.,web%20scraping%20and%20web%20crawling
+
+
 https://datasciencedojo.com/blog/what-are-chatbots/
 
 https://datasciencedojo.com/blog/building-chatbot-google-dialogflow/
