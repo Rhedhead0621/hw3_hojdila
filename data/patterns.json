@@ -1,0 +1,37 @@
+[
+    {
+        "pattern": "hello",
+        "responses": [
+            "Hello!"
+        ],
+        "context_set": ""
+    },
+    {
+        "pattern": "hi",
+        "responses": [
+            "Hello!"
+        ],
+        "context_set": ""
+    },
+    {
+        "pattern": "good bye",
+        "responses": [
+            "Good bye!"
+        ],
+        "context_set": ""
+    },
+    {
+        "pattern": "quit",
+        "responses": [
+            "Good bye!"
+        ],
+        "context_set": ""
+    },
+    {
+        "pattern": ".*",
+        "responses": [
+            "Sorry! I don't understand"
+        ],
+        "context_set": ""
+    }
+]
